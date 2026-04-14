@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Auto Loan After Bankruptcy -- Getting Approved and Avoiding Predatory Lenders -- Credit Score
+## Auto Loan After Bankruptcy - Getting Approved and Avoiding Predatory Lenders - Credit Score
 Source: https://creditscorebankruptcy.com/auto-loan-after-bankruptcy.html
 
 Auto Loan After Bankruptcy
@@ -17,7 +17,7 @@ Home » Auto Loan After Bankruptcy
 
 When You Can Get an Auto Loan
 
-Unlike mortgages, there's no mandatory waiting period for auto loans after bankruptcy. You can get approved the day after discharge. However, loans available immediately after discharge come with significantly higher interest rates -- often 15-25% APR from subprime lenders.
+Unlike mortgages, there's no mandatory waiting period for auto loans after bankruptcy. You can get approved the day after discharge. However, loans available immediately after discharge come with significantly higher interest rates - often 15-25% APR from subprime lenders.
 
 Waiting 6-12 months while rebuilding credit can dramatically improve your rate. A score improvement from 550 to 620 might cut your APR from 20% to 10%, saving thousands over the loan term. If you don't urgently need a vehicle, patience pays.
 
@@ -25,7 +25,7 @@ Avoiding Predatory Auto Lenders
 
 Bankruptcy filers are prime targets for predatory auto lenders. Red flags: "Buy Here Pay Here" lots that finance in-house at 25-30% APR. GPS tracking devices installed to facilitate repossession. Pressure to buy immediately without time to compare offers. Focus on monthly payment rather than total cost (stretching loans to 72-84 months to hide a terrible rate). Mandatory add-ons like extended warranties and GAP insurance folded into the loan.
 
-Instead, get pre-approved through your credit union or bank before visiting any dealer. Credit unions are typically the best source for post-bankruptcy auto loans -- they evaluate the whole picture, not just the score. A pre-approval letter gives you negotiating power and protects you from dealer financing games. Full auto buying guide after bankruptcy.
+Instead, get pre-approved through your credit union or bank before visiting any dealer. Credit unions are typically the best source for post-bankruptcy auto loans - they evaluate the whole picture, not just the score. A pre-approval letter gives you negotiating power and protects you from dealer financing games. Full auto buying guide after bankruptcy.
 
 Getting the Best Rate
 
@@ -51,7 +51,7 @@ Buy. Leasing typically requires higher credit scores (680+) and most lease agree
 
 What's a reasonable interest rate to accept after bankruptcy?
 
-Within the first year after discharge, anything under 15% is reasonable for the credit situation. Within 2 years with rebuilding, you should be able to get 8-12%. If a lender offers above 20%, walk away and shop elsewhere -- you can almost certainly do better.
+Within the first year after discharge, anything under 15% is reasonable for the credit situation. Within 2 years with rebuilding, you should be able to get 8-12%. If a lender offers above 20%, walk away and shop elsewhere - you can almost certainly do better.
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -155,7 +155,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Chapter 13 Bankruptcy Credit Impact -- Score Effects During and After Your Plan -- Credit Score
+## Chapter 13 Bankruptcy Credit Impact - Score Effects During and After Your Plan - Credit Score
 Source: https://creditscorebankruptcy.com/chapter-13-credit-impact.html
 
 Chapter 13 Bankruptcy Credit Impact
@@ -180,11 +180,11 @@ Chapter 13 vs. Chapter 7 Credit Recovery
 
 The credit impact comparison is more nuanced than the reporting periods suggest. Chapter 7 advantages: Immediate debt elimination allows faster rebuilding; 10-year reporting period is the tradeoff. Chapter 13 advantages: 7-year reporting period; shows creditors you repaid what you could; some lenders view Chapter 13 more favorably.
 
-In practice, both chapters converge to similar scores by year 5-7. The initial Chapter 7 advantage (faster debt elimination) is offset by the shorter Chapter 13 reporting period. Choose the chapter that makes financial sense -- the credit impact difference shouldn't drive the decision. Compare Chapter 7 vs. Chapter 13.
+In practice, both chapters converge to similar scores by year 5-7. The initial Chapter 7 advantage (faster debt elimination) is offset by the shorter Chapter 13 reporting period. Choose the chapter that makes financial sense - the credit impact difference shouldn't drive the decision. Compare Chapter 7 vs. Chapter 13.
 
 Strategies During the Plan Period
 
-1. Make every plan payment on time -- missed payments can lead to dismissal and destroy your credit further. 2. Keep one credit account open if possible (with trustee approval) to maintain some credit history. 3. Monitor your credit report monthly for errors -- creditors sometimes fail to update accounts to discharged status. 4. Dispute errors immediately -- debts included in your plan should show $0 balance once discharged.
+1. Make every plan payment on time - missed payments can lead to dismissal and destroy your credit further. 2. Keep one credit account open if possible (with trustee approval) to maintain some credit history. 3. Monitor your credit report monthly for errors - creditors sometimes fail to update accounts to discharged status. 4. Dispute errors immediately - debts included in your plan should show $0 balance once discharged.
 
 After discharge, follow the same rebuilding strategy as Chapter 7: secured credit cards, on-time payments, low utilization, and patience.
 
@@ -304,7 +304,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Chapter 7 Bankruptcy Credit Impact -- What Really Happens to Your Score -- Credit Score
+## Chapter 7 Bankruptcy Credit Impact - What Really Happens to Your Score - Credit Score
 Source: https://creditscorebankruptcy.com/chapter-7-credit-impact.html
 
 Chapter 7 Bankruptcy Credit Impact
@@ -315,7 +315,7 @@ Home » Chapter 7 Bankruptcy Credit Impact
 
 The Initial Credit Score Drop
 
-Chapter 7 bankruptcy causes a significant initial credit score drop -- typically 100-200 points. However, the actual impact depends heavily on where your score was before filing. If your score was already damaged by missed payments, collections, and charge-offs (which is common before bankruptcy), the additional drop from the filing itself may be surprisingly modest -- sometimes only 30-50 points.
+Chapter 7 bankruptcy causes a significant initial credit score drop - typically 100-200 points. However, the actual impact depends heavily on where your score was before filing. If your score was already damaged by missed payments, collections, and charge-offs (which is common before bankruptcy), the additional drop from the filing itself may be surprisingly modest - sometimes only 30-50 points.
 
 The reason: by the time most people file Chapter 7, their credit has already absorbed the worst damage from months or years of delinquencies. The bankruptcy filing itself is just one more negative event on an already damaged report.
 
@@ -323,7 +323,7 @@ How Long Chapter 7 Stays on Your Report
 
 Chapter 7 bankruptcy remains on your credit report for 10 years from the filing date. This is the maximum reporting period for any negative credit event. However, the impact on your score diminishes significantly over time. Most of the score damage occurs in the first 2-3 years.
 
-After 10 years, the bankruptcy is automatically removed from your credit report. You don't need to do anything -- the credit bureaus remove it based on the filing date. If it's not removed automatically, dispute it with the bureau and provide documentation of the filing date.
+After 10 years, the bankruptcy is automatically removed from your credit report. You don't need to do anything - the credit bureaus remove it based on the filing date. If it's not removed automatically, dispute it with the bureau and provide documentation of the filing date.
 
 Year-by-Year Credit Recovery
 
@@ -453,7 +453,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Credit Monitoring After Bankruptcy -- Track Your Recovery and Catch Errors -- Credit Score
+## Credit Monitoring After Bankruptcy - Track Your Recovery and Catch Errors - Credit Score
 Source: https://creditscorebankruptcy.com/credit-monitoring-after-bankruptcy.html
 
 Credit Monitoring After Bankruptcy
@@ -472,7 +472,7 @@ Free Monitoring Options
 
 AnnualCreditReport.com: Free weekly reports from all three bureaus. Pull your reports at least monthly during the first year post-bankruptcy. Credit Karma: Free ongoing monitoring of TransUnion and Equifax scores with alerts. Discover Credit Scorecard: Free FICO score (even without a Discover card). Experian free account: Free access to your Experian report and FICO score.
 
-Between these free services, you can monitor all three bureaus and at least two scoring models without paying anything. There's no need to pay for credit monitoring after bankruptcy -- the free tools are sufficient.
+Between these free services, you can monitor all three bureaus and at least two scoring models without paying anything. There's no need to pay for credit monitoring after bankruptcy - the free tools are sufficient.
 
 How to Dispute Post-Bankruptcy Errors
 
@@ -602,7 +602,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Credit Score Factors After Bankruptcy -- What Actually Moves Your Score
+## Credit Score Factors After Bankruptcy - What Actually Moves Your Score
 Source: https://creditscorebankruptcy.com/credit-score-factors.html
 
 Credit Score Factors After Bankruptcy
@@ -613,7 +613,7 @@ Home » Credit Score Factors After Bankruptcy
 
 The Five FICO Score Factors
 
-Your credit score is calculated from five categories: Payment history (35%) -- most important; on-time payments are the biggest score driver. Credit utilization (30%) -- how much of your available credit you're using. Length of credit history (15%) -- average age of your accounts. Credit mix (10%) -- variety of account types. New credit inquiries (10%) -- recent applications for credit.
+Your credit score is calculated from five categories: Payment history (35%) - most important; on-time payments are the biggest score driver. Credit utilization (30%) - how much of your available credit you're using. Length of credit history (15%) - average age of your accounts. Credit mix (10%) - variety of account types. New credit inquiries (10%) - recent applications for credit.
 
 After bankruptcy, the two factors you can control most immediately are payment history and utilization. Together, they account for 65% of your score. This is why a single secured credit card used responsibly can move your score dramatically.
 
@@ -625,9 +625,9 @@ Critical rule: One missed payment after bankruptcy can undo months of rebuilding
 
 Credit Utilization: The 30% Factor
 
-Credit utilization is your total balance divided by your total credit limit. After bankruptcy, your available credit is minimal (likely just a secured card), so utilization is easy to spike. On a $300 limit, a $100 balance puts you at 33% utilization -- above the 30% threshold that score models penalize.
+Credit utilization is your total balance divided by your total credit limit. After bankruptcy, your available credit is minimal (likely just a secured card), so utilization is easy to spike. On a $300 limit, a $100 balance puts you at 33% utilization - above the 30% threshold that score models penalize.
 
-Strategy: Keep your statement balance under 10% of your limit for the biggest score boost. On a $300 card, keep the statement balance under $30. You can use the card for more than $30/month -- just pay it down before the statement closing date (not the due date). The statement balance is what gets reported to the bureaus.
+Strategy: Keep your statement balance under 10% of your limit for the biggest score boost. On a $300 card, keep the statement balance under $30. You can use the card for more than $30/month - just pay it down before the statement closing date (not the due date). The statement balance is what gets reported to the bureaus.
 
 The Other Three Factors
 
@@ -643,7 +643,7 @@ Payment history (35%) is the most important. Each on-time payment adds positive 
 
 Does utilization matter if I only have one credit card?
 
-Yes, utilization matters even with one card. In fact, it matters more because your total available credit is so low. A $100 balance on a $300 limit is 33% utilization -- enough to suppress your score. Keep statement balances under 10% of your limit.
+Yes, utilization matters even with one card. In fact, it matters more because your total available credit is so low. A $100 balance on a $300 limit is 33% utilization - enough to suppress your score. Keep statement balances under 10% of your limit.
 
 How long until my positive payment history outweighs the bankruptcy?
 
@@ -751,8 +751,10 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Credit Score After Bankruptcy -- Recovery Timeline [2026]
+## Credit Score After Bankruptcy - Recovery Timeline [2026]
 Source: https://creditscorebankruptcy.com/
+
+Skip to main content
 
 🌐 Esta pagina esta disponible en Espanol
 
@@ -794,7 +796,7 @@ Steps to Rebuild Faster
 
 1. Get a secured credit card within 30 days of discharge. Use it for small purchases and pay in full monthly.
 
-2. Check your credit reports for errors -- discharged debts must show $0 balance.
+2. Check your credit reports for errors - discharged debts must show $0 balance.
 
 3. Never miss a payment on any obligation post-discharge.
 
@@ -842,23 +844,23 @@ Credit recovery is faster than most people expect. You can typically get a secur
 
 Explore Our Guides
 
-Chapter 7 Bankruptcy Credit Impact -- Understand exactly how Chapter 7 bankruptcy affects your credit score, how long it stays on your report, and what the re
+Chapter 7 Bankruptcy Credit Impact - Understand exactly how Chapter 7 bankruptcy affects your credit score, how long it stays on your report, and what the re
 
-Chapter 13 Bankruptcy Credit Impact -- How Chapter 13 bankruptcy affects your credit score during the 3-5 year plan and after discharge. Timeline for credit re
+Chapter 13 Bankruptcy Credit Impact - How Chapter 13 bankruptcy affects your credit score during the 3-5 year plan and after discharge. Timeline for credit re
 
-Rebuilding Credit After Bankruptcy -- Step-by-step timeline for rebuilding credit after bankruptcy. Month-by-month actions from discharge through 700+ credit
+Rebuilding Credit After Bankruptcy - Step-by-step timeline for rebuilding credit after bankruptcy. Month-by-month actions from discharge through 700+ credit
 
-Secured Credit Cards After Bankruptcy -- Guide to choosing and using secured credit cards after bankruptcy. How they work, which to apply for, and how to maximiz
+Secured Credit Cards After Bankruptcy - Guide to choosing and using secured credit cards after bankruptcy. How they work, which to apply for, and how to maximiz
 
-Credit Monitoring After Bankruptcy -- Free and paid credit monitoring options after bankruptcy. How to track your score recovery, dispute errors, and ensure d
+Credit Monitoring After Bankruptcy - Free and paid credit monitoring options after bankruptcy. How to track your score recovery, dispute errors, and ensure d
 
-Removing Bankruptcy From Your Credit Report -- When and how bankruptcy is removed from credit reports. Understand the legal timelines, dispute inaccurate reporting, an
+Removing Bankruptcy From Your Credit Report - When and how bankruptcy is removed from credit reports. Understand the legal timelines, dispute inaccurate reporting, an
 
-Credit Score Factors After Bankruptcy -- Understand the five credit score factors and how each one works after bankruptcy. Payment history, utilization, age, mix
+Credit Score Factors After Bankruptcy - Understand the five credit score factors and how each one works after bankruptcy. Payment history, utilization, age, mix
 
-Getting a Mortgage After Bankruptcy -- Complete guide to getting approved for a mortgage after Chapter 7 or Chapter 13 bankruptcy. FHA, VA, USDA, and conventio
+Getting a Mortgage After Bankruptcy - Complete guide to getting approved for a mortgage after Chapter 7 or Chapter 13 bankruptcy. FHA, VA, USDA, and conventio
 
-Auto Loan After Bankruptcy -- How to get an auto loan after bankruptcy without falling into predatory lending traps. Timing, rates, lenders, and strat
+Auto Loan After Bankruptcy - How to get an auto loan after bankruptcy without falling into predatory lending traps. Timing, rates, lenders, and strat
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -932,7 +934,7 @@ buyahouseafterbankruptcy.com →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -1067,6 +1069,7 @@ Means Test
 File Without a Lawyer
 Rebuild Credit
 creditscorebankruptcy.com
+Rule 9037 PII Scanner
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
@@ -1080,9 +1083,11 @@ Terms
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
+Cited by the Federal Rules Committee (26-BK-3)
+
 ---
 
-## Getting a Mortgage After Bankruptcy -- Waiting Periods and Qualification Guide -- Credit Score
+## Getting a Mortgage After Bankruptcy - Waiting Periods and Qualification Guide - Credit Score
 Source: https://creditscorebankruptcy.com/mortgage-after-bankruptcy.html
 
 Getting a Mortgage After Bankruptcy
@@ -1095,7 +1100,7 @@ Mandatory Waiting Periods by Loan Type
 
 Each mortgage type has a different waiting period after bankruptcy: FHA loans: 2 years after Chapter 7 discharge, 1 year into Chapter 13 plan (with court approval). VA loans: 2 years after Chapter 7, 1 year into Chapter 13. USDA loans: 3 years after Chapter 7, 1 year into Chapter 13. Conventional loans (Fannie Mae/Freddie Mac): 4 years after Chapter 7, 2 years after Chapter 13 discharge or 4 years after dismissal.
 
-These are minimum waiting periods. Meeting the timeline doesn't guarantee approval -- you still need adequate credit scores, income, and down payment. The waiting period starts from the discharge date (or dismissal date), not the filing date.
+These are minimum waiting periods. Meeting the timeline doesn't guarantee approval - you still need adequate credit scores, income, and down payment. The waiting period starts from the discharge date (or dismissal date), not the filing date.
 
 Credit Score Requirements
 
@@ -1105,7 +1110,7 @@ Focus on rebuilding your score during the waiting period. A 680+ score at applic
 
 What Lenders Look for After Bankruptcy
 
-Beyond the score, lenders evaluate: Re-established credit: At least 2-3 trade lines with 12+ months of perfect payment history. Stable income: 2 years of consistent employment (same employer or same industry). Savings: Emergency fund showing financial stability. Explanation letter: A brief letter explaining the circumstances of the bankruptcy (medical emergency, job loss, divorce -- not irresponsible spending).
+Beyond the score, lenders evaluate: Re-established credit: At least 2-3 trade lines with 12+ months of perfect payment history. Stable income: 2 years of consistent employment (same employer or same industry). Savings: Emergency fund showing financial stability. Explanation letter: A brief letter explaining the circumstances of the bankruptcy (medical emergency, job loss, divorce - not irresponsible spending).
 
 Lenders want to see that the bankruptcy was caused by a specific event, not a pattern of financial mismanagement. They also want evidence that you've established responsible financial habits since the discharge.
 
@@ -1231,7 +1236,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Rebuilding Credit After Bankruptcy -- Month-by-Month Timeline -- Credit Score
+## Rebuilding Credit After Bankruptcy - Month-by-Month Timeline - Credit Score
 Source: https://creditscorebankruptcy.com/rebuilding-credit-timeline.html
 
 Rebuilding Credit After Bankruptcy
@@ -1248,7 +1253,7 @@ The goal in months 1-3 is establishing two open accounts with perfect payment hi
 
 Month 4-12: Building Momentum
 
-Month 4-6: Continue perfect payments on secured card and credit-builder loan. Your score should begin climbing -- expect 550-600 range. Month 7-9: Apply for a second secured card or a store credit card (easier approval). Keep utilization under 30% on all cards. Month 10-12: By your first anniversary post-discharge, consistent on-time payments should push your score to 600-640.
+Month 4-6: Continue perfect payments on secured card and credit-builder loan. Your score should begin climbing - expect 550-600 range. Month 7-9: Apply for a second secured card or a store credit card (easier approval). Keep utilization under 30% on all cards. Month 10-12: By your first anniversary post-discharge, consistent on-time payments should push your score to 600-640.
 
 Key rule during this period: never miss a payment. One missed payment on new accounts after bankruptcy is devastating because you have so little positive history. Set up autopay for at least the minimum payment on every account.
 
@@ -1272,11 +1277,11 @@ Secured credit cards with on-time payments are the fastest method. Open a secure
 
 Should I use a credit repair company after bankruptcy?
 
-Generally no. Credit repair companies cannot remove accurate bankruptcy information from your report. What they can do -- disputing errors and updating discharged accounts -- you can do yourself for free. Save your money for a secured card deposit instead.
+Generally no. Credit repair companies cannot remove accurate bankruptcy information from your report. What they can do - disputing errors and updating discharged accounts - you can do yourself for free. Save your money for a secured card deposit instead.
 
 How many credit accounts should I open after bankruptcy?
 
-Start with one secured card. Add a second account (credit-builder loan or second card) within 3-6 months. Two to three well-managed accounts are sufficient for rebuilding. Don't open too many accounts at once -- each application creates a hard inquiry that temporarily lowers your score.
+Start with one secured card. Add a second account (credit-builder loan or second card) within 3-6 months. Two to three well-managed accounts are sufficient for rebuilding. Don't open too many accounts at once - each application creates a hard inquiry that temporarily lowers your score.
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -1380,7 +1385,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Removing Bankruptcy From Your Credit Report -- Rules, Timelines, and Disputes -- Credit Score
+## Removing Bankruptcy From Your Credit Report - Rules, Timelines, and Disputes - Credit Score
 Source: https://creditscorebankruptcy.com/removing-bankruptcy-from-report.html
 
 Removing Bankruptcy From Your Credit Report
@@ -1391,7 +1396,7 @@ Home » Removing Bankruptcy From Your Credit Report
 
 Legal Reporting Timelines
 
-Under the Fair Credit Reporting Act (FCRA), bankruptcy can remain on your credit report for: Chapter 7: 10 years from the filing date. Chapter 13: 7 years from the filing date. These are maximum reporting periods -- credit bureaus can remove bankruptcies earlier, but they are legally permitted to report them for the full period.
+Under the Fair Credit Reporting Act (FCRA), bankruptcy can remain on your credit report for: Chapter 7: 10 years from the filing date. Chapter 13: 7 years from the filing date. These are maximum reporting periods - credit bureaus can remove bankruptcies earlier, but they are legally permitted to report them for the full period.
 
 The clock starts from the filing date, not the discharge date. For Chapter 13, this is significant: if your 5-year plan starts in 2026 and ends in 2031, the bankruptcy may fall off your report in 2033 (7 years from filing) rather than 2041.
 
@@ -1409,7 +1414,7 @@ To dispute: file online at each bureau's website, by mail (certified, return rec
 
 After Bankruptcy Falls Off Your Report
 
-When bankruptcy finally drops off your report, expect a modest score increase -- typically 10-30 points if you've been rebuilding consistently. The bigger benefit is psychological: mortgage underwriters and other manual reviewers won't see the bankruptcy flag.
+When bankruptcy finally drops off your report, expect a modest score increase - typically 10-30 points if you've been rebuilding consistently. The bigger benefit is psychological: mortgage underwriters and other manual reviewers won't see the bankruptcy flag.
 
 If the bankruptcy doesn't automatically fall off on schedule, dispute it with each bureau. Provide the filing date and the applicable reporting period (7 or 10 years). Bureaus are required to remove expired information promptly. If they don't, file a CFPB complaint.
 
@@ -1529,7 +1534,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Best Secured Credit Cards After Bankruptcy -- Rebuilding Tool Guide -- Credit Score
+## Best Secured Credit Cards After Bankruptcy - Rebuilding Tool Guide - Credit Score
 Source: https://creditscorebankruptcy.com/secured-credit-cards.html
 
 Secured Credit Cards After Bankruptcy
@@ -1540,7 +1545,7 @@ Home » Secured Credit Cards After Bankruptcy
 
 How Secured Credit Cards Work
 
-A secured credit card requires a cash deposit (typically $200-500) that serves as your credit limit. If you deposit $300, your credit limit is $300. The deposit protects the issuer -- if you don't pay, they keep the deposit. Because of this collateral, secured cards are available to people with bankruptcies, poor credit, or no credit history.
+A secured credit card requires a cash deposit (typically $200-500) that serves as your credit limit. If you deposit $300, your credit limit is $300. The deposit protects the issuer - if you don't pay, they keep the deposit. Because of this collateral, secured cards are available to people with bankruptcies, poor credit, or no credit history.
 
 Secured cards report to the credit bureaus just like regular credit cards. To the credit scoring algorithm, there's no difference between a secured and unsecured card. The same positive payment history benefits apply. This is why secured cards are the single most effective credit rebuilding tool after bankruptcy.
 
@@ -1552,13 +1557,13 @@ Recommended issuers for post-bankruptcy applicants: Discover it Secured (reports
 
 How to Use a Secured Card for Maximum Rebuilding
 
-Rule 1: Use it for one small purchase per month -- a subscription or a tank of gas. Rule 2: Pay the full balance before the due date -- don't carry a balance; you'll pay interest for no benefit. Rule 3: Keep utilization under 30% -- on a $300 limit, never carry more than $90 at statement time. Under 10% is ideal. Rule 4: Set up autopay for at least the minimum payment as a safety net.
+Rule 1: Use it for one small purchase per month - a subscription or a tank of gas. Rule 2: Pay the full balance before the due date - don't carry a balance; you'll pay interest for no benefit. Rule 3: Keep utilization under 30% - on a $300 limit, never carry more than $90 at statement time. Under 10% is ideal. Rule 4: Set up autopay for at least the minimum payment as a safety net.
 
 The credit scoring models want to see: regular usage (shows you're actively managing credit), low utilization (shows you're not desperate for credit), and perfect payments (shows you're reliable). A single secured card used this way can add 50-100 points to your score within 6-12 months.
 
 When to Graduate to Unsecured
 
-After 6-12 months of perfect payments, you can: 1. Request an upgrade from your secured card issuer (many review automatically). 2. Apply for an unsecured card -- store cards and cards marketed to rebuilders have lower approval thresholds. 3. Keep the secured card open even after getting approved elsewhere -- account age helps your score.
+After 6-12 months of perfect payments, you can: 1. Request an upgrade from your secured card issuer (many review automatically). 2. Apply for an unsecured card - store cards and cards marketed to rebuilders have lower approval thresholds. 3. Keep the secured card open even after getting approved elsewhere - account age helps your score.
 
 Don't close the secured card once you upgrade or get new cards. The length of your credit history matters, and this was likely your first post-bankruptcy account. Keep it open, use it occasionally, and let it age. Learn how credit scores are calculated.
 
@@ -1570,7 +1575,7 @@ Yes. Most secured card issuers will approve you immediately after discharge. Som
 
 How much should I deposit on a secured credit card?
 
-Start with $200-500. A higher deposit gives you a higher credit limit, which makes it easier to keep utilization low. Don't deposit more than you can comfortably have tied up -- you can always increase the deposit later if the issuer allows it.
+Start with $200-500. A higher deposit gives you a higher credit limit, which makes it easier to keep utilization low. Don't deposit more than you can comfortably have tied up - you can always increase the deposit later if the issuer allows it.
 
 Will a secured card really help my score if I just filed bankruptcy?
 
@@ -1675,3 +1680,75 @@ Terms
 ♥ Sponsor
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Privacy Policy - creditscorebankruptcy.com
+Source: https://creditscorebankruptcy.com/privacy.html
+
+creditscorebankruptcy.com
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
